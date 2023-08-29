@@ -17,7 +17,7 @@
   
 ## 🌱 I’m currently learning
 - C#
-- 
+  
 ## 👯 I’m looking to collaborate on
 - Open-source projects
 - LxCore projects (Shoot me a message!)
