@@ -13,7 +13,7 @@
 - **Specialties**: Discord Bot Development, FiveM Scripting, Roblox Scripting
 
 ## 🔭 I’m currently working on
-- **[LxCore](https://github.com/Zaps6000/lxCore)**: (Lightweight Lua 5.4 Framework was tired of ugly frameworks)
+- **[LxCore](https://github.com/LxCore-project/lxCore)**: (Lightweight Lua 5.4 Framework was tired of ugly frameworks)
   
 ## 🌱 I’m currently learning
 - C#
