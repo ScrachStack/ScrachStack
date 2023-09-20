@@ -10,7 +10,7 @@
 ## 🛠️ Technologies & Tools
 - **Languages**: JavaScript, PHP, HTML, CSS, SQL, Lua
 - **Frameworks**: Vue.js, React.js, Express.js
-- **Specialties**: Discord Bot Development, FiveM Scripting, Roblox Scripting
+- **Specialties**: Discord Bot Development, FiveM & RedM Scripting, Roblox Scripting
 
 ## 🔭 I’m currently working on
 - **[LxCore](https://github.com/LxCore-project/lxCore)**: (Lightweight Lua 5.4 Framework was tired of ugly frameworks)
