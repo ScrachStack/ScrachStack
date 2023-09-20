@@ -4,7 +4,7 @@
 ## 🌍 About Me
 - 📍 **Location**: Arizona, USA
 - 📚 **Learning Path**: Self-taught through online resources
-- 🎮 **Experience**: Active in FiveM and development since 2016
+- 🎮 **Experience**: Active in FiveM & RedM and development since 2016
 - 🤝 **Mission**: Love to help others; turned my passion into a business
 
 ## 🛠️ Technologies & Tools
@@ -24,7 +24,7 @@
 
 ## 💬 Ask me about
 - Discord Bot Development
-- FiveM Scripting
+- FiveM & RedM Scripting
 
 ## 📫 How to reach me
 - **Discord**: zaps6000 or [Join my Discord Server](https://discord.gg/cfxdev)
