@@ -14,7 +14,6 @@
 
 ## 🔭 I’m currently working on
 - **[RedMTrainer](https://github.com/Zaps6000/RedTrainer/tree/main)**: (Server Sided Trainer for RedM)
-- [City Of Chaos](https://github.com/City-of-Chaos): FiveM Gamemode
   
 ## 🌱 I’m currently learning
 - C#
