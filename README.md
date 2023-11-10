@@ -10,7 +10,9 @@
 - **[RedMTrainer](https://github.com/Zaps6000/RedTrainer/tree/main)**: (Server Sided Trainer for RedM)
   
 ## 📫 How to reach me
-- **Discord**: zaps6000 or [Join my Discord Server](https://discord.gg/cfxdev)
+- **Discord**: [![](https://dcbadge.vercel.app/api/server/cfxdev)](https://discord.gg/cfxdev)
+
+
 ---
 
 📈 **My GitHub Stats**
