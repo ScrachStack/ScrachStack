@@ -1,4 +1,4 @@
-# Hi there, I'm [Zaps Development](https://github.com/Zaps6000) 🎃
+# Hi there, I'm [Zaps Development](https://zapsdev.com) 🎄
 
 
 ## 🛠️ Technologies & Tools
