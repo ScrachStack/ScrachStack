@@ -4,7 +4,7 @@
 ## 🛠️ Technologies & Tools
 - **Languages**: JavaScript, PHP, HTML, CSS, SQL, Lua
 - **Frameworks**: Vue.js, React.js, Express.js
-- **Specialties**: Discord Bot Development, FiveM & RedM Scripting, Roblox Scripting
+- **Specialties**: Discord Bot Development, FiveM & RedM Scripting, Roblox Scripting, Website Creation
 
 ## 🔭 I’m currently working on
 - **[RedMTrainer](https://github.com/Zaps6000/RedTrainer/tree/main)**: (Server Sided Trainer for RedM)
