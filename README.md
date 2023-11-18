@@ -3,7 +3,7 @@
 
 ## 🛠️ Technologies & Tools
 - **Languages**: JavaScript, PHP, HTML, CSS, SQL, Lua
-- **Frameworks**: Vue.js, React.js, Express.js
+- **Frameworks**: Vue.js, React.js, Express.js, Learning svelte.js
 - **Specialties**: Discord Bot Development, FiveM & RedM Scripting, Roblox Scripting, Website Creation
 
 ## 🔭 I’m currently working on
