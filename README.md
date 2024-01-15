@@ -19,5 +19,3 @@
 </div>
 
 --- 
-Use code ``zapsdevelopment`` for 30% off
-[North Hosting](https://hosting.northhost.fr/)
