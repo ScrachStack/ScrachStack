@@ -1,7 +1,7 @@
 # uWu🐧
 
 ## 🛠️ Technologies & Tools
-- **Languages**: JavaScript, PHP, HTML, CSS, SQL, Lua
+- **Languages**: JavaScript, PHP, HTML, CSS, SQL, Lua, Python
 - **Frameworks**: Vue.js, React.js, Express.js
 - **Specialties**: Discord Bot Development, FiveM & RedM Scripting, Roblox Scripting, Website Creation
 
