@@ -1,4 +1,3 @@
-# uWu🐧
 
 ## 🛠️ Technologies & Tools
 - **Languages**: JavaScript, PHP, HTML, CSS, SQL, Lua, Python
