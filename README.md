@@ -6,6 +6,10 @@
 
 ---
 
+## 📫 How to reach me
+- [![](https://dcbadge.vercel.app/api/server/FduPsjJPuu)](https://discord.gg/FduPsjJPuu)
+
+
 📈 **My GitHub Stats**
 
 <div style="display: flex; justify-content: center;">
