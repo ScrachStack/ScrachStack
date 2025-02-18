@@ -6,7 +6,6 @@ I'm a passionate developer specializing in **game development, web development, 
 
 ## 📞 Need Support?  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T01APGOO)
-[![Discord](https://img.shields.io/badge/Discord-Support-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/Uwg95JfwYT) 
 
 ---
 
@@ -25,11 +24,6 @@ I'm a passionate developer specializing in **game development, web development, 
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
 ![Angular.js](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  
 
-**Specialties**  
-🎮 Game Development (FiveM, RedM)  
-🤖 Discord Bot Development  
-🌐 Full-Stack Web Development  
-
 ---
 
 ## 📈 My GitHub Stats
@@ -39,5 +33,3 @@ I'm a passionate developer specializing in **game development, web development, 
 </div>
 
 ---
-
-💡 **Fun Fact**: I love solving problems and experimenting with new technologies! If you're interested in collaborating, feel free to reach out. 🚀
