@@ -1,13 +1,5 @@
 # ScrachStack 
 
-I'm a passionate developer specializing in **game development, web development, and scripting**. I enjoy building **Discord bots, FiveM & RedM scripts, and full-stack applications**. Always exploring new technologies and pushing my limits! 🚀
-
-
-
-## 📞 Need Support?  
-[![Discord](https://img.shields.io/badge/Discord-Support-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/fivemdev)
-
-
 ---
 
 ## 🛠️ Technologies & Tools
